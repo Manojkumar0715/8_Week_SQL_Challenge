@@ -5,6 +5,9 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
+<img src="https://github.com/Manojkumar0715/8_Week_SQL_Challenge/blob/main/Case_Study%231-Danny's_Diner/Case%20study%231%20-%20Dannys%20Diner.png"
+class="center">
+
 ## Problem Statement
 
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
@@ -42,3 +45,7 @@ Each of the following case study questions can be answered using a single SQL st
  9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
  10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer 
  11. A and B have at the end of January?
+ 12. Join all tables and rank it ?
+     
+## Solutions
+For Solutions [Click here](https://github.com/Manojkumar0715/8_Week_SQL_Challenge/blob/main/Case_Study%231-Danny's_Diner/Queries.sql)
