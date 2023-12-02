@@ -54,7 +54,7 @@ F. Each of the following case study questions can be answered using a single SQL
 Again, there are many questions in this case study - please feel free to pick and choose which ones you’d like to try!
 Before you start writing your SQL queries however - you might want to investigate the data, you may want to do something with some of those null values and data types in the customer_orders and runner_orders tables!
 
-### A. Pizza Metrics
+### A. Pizza  Metrics
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
 3. How many successful orders were delivered by each runner?
@@ -109,3 +109,4 @@ Before you start writing your SQL queries however - you might want to investigat
 
 ### E. Bonus Questions
 If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an INSERT statement to demonstrate what would happen if a new Supreme pizza with all the toppings was added to the Pizza Runner menu?
+
